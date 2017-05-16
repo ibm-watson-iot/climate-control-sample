@@ -6,7 +6,7 @@ IoT reference sample for Climate Control
 
 ## Deploy the app on Bluemix
 You can deploy your own instance to Bluemix.
-To do this, you can either use the _Deploy to Bluemix_ button for an automated deployment or follow the steps below to create and deploy your app manually.
+To do this, you can either use the _Create Toolchain_ button for an automated deployment or follow the steps below to create and deploy your app manually.
 
 ### Using the Create Toolchain button.
 Use the *"Create Toolchain"* button provided below, to deploy this app to Bluemix using IBM DevOps.
